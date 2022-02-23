@@ -1,0 +1,11 @@
+[pack]
+	buildbitmaps = false
+[core]
+	symlinks = false
+	repositoryformatversion = 0
+	filemode = false
+	logallrefupdates = true
+	bare = false
+[user]
+	name = adrif
+	email = adrif@LAPTOP-9USMRAU4.infor.com
